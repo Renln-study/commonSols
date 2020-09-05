@@ -1,0 +1,17 @@
+智能合约：（1）https://kaleido.io/how-do-smart-contracts-work/
+         （2）https://huangwenwei.com/blogs/intro-ethereum-smart-contract
+
+账户模型与UTXO模型
+
+以太坊 merkle树 https://www.cnblogs.com/fengzhiwu/p/5524324.html
+以太坊的state模型
+智能合约升级问题
+
+merkle树，世界状态，交易 名词解释：https://pegasys.tech/ethereum-explained-merkle-trees-world-state-transactions-and-more/
+
+
+区块链+教育平台：https://www.jianshu.com/p/465e4472f1a6
+区块链教育平台优点：http://blog.hubwiz.com/2019/11/18/education-blockchain/
+
+
+js-----api

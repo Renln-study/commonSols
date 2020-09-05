@@ -1,0 +1,10 @@
+##今日完成：
+  1.<font face="黑体" color="red" size="3">fallback函数使用</font>
+  2.msg.data获取
+  3.getter构造器的使用
+  ***
+### 待完成
+  1.函数转账模式
+  2.函数调用 call---bytes(abi.endcode())
+  3.宠物商店的web3js
+  ***

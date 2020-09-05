@@ -1,0 +1,25 @@
+## <font color="red">字符串与原始字节数组</font>
+
+
+
+
+
+## 待阅读文章：
+- https://github.com/ethereum/EIPs/blob/master/EIPS/eip-712.md （关于哈希值）
+- 存储中状态变量的布局  ---https://www.osgeo.cn/solidity/miscellaneous.html
+- web3.py测试solidity Library  https://www.jianshu.com/p/2a49b4e2ee58
+- solidity知乎总结  https://zhuanlan.zhihu.com/p/69064321
+https://ethereum.stackexchange.com/questions/58226/passing-an-element-of-struct-array-as-a-function-argument-is-pass-by-value-or-re
+Data location must be "calldata" for parameter in external function, but none was given
+
+外部函数中的数据位置必须是"calldata",例如:
+
+interface tokenRecipient { function receiveApproval(address _from, bytes _extraData) external; }
+
+==>
+
+interface tokenRecipient { function receiveApproval(address _from, bytes calldata _extraData) external; }
+
+-java bytes与string十六进制转换 https://blog.csdn.net/LVXIANGAN/article/details/41294989
+
+-实现物品共享  https://blog.csdn.net/hongdianqiu4693/article/details/80226488

@@ -1,0 +1,14 @@
+https://medium.com/@abhilash.thaduka/dxchain-big-data-meets-blockchain-e5ae713fecef
+- support three types of transactions for storage contracts
+- finalized the storage proof algorithm
+- stabilized storage contract handshake process
+- Implemented the provider atuo selection algorithm
+- performance optimized for file uploading
+
+https://www.youtube.com/watch?v=TVeRWxyIcIg
+
+- 下载操作教程   https://github.com/DxChainNetwork/godx-doc/blob/master/gdx/gdx-manual/manual_ch.md
+- 三链合一  存储与计算
+ https://www.wanlianzhijia.com/News/show/id/6003.html
+ - hadoop https://icogens.com/ico-review-dxchain-when-big-data-meets-blockchain-worlds-first-decentralized-big-data-and-machine-learning-network-powered-by-a-computing-centric-blockchain?lang=cn
+ - 深度分析 https://medium.com/dxchain%E4%B8%AD%E6%96%87%E5%8D%9A%E5%AE%A2/dxchain-%E7%94%A8%E5%8C%BA%E5%9D%97%E9%93%BE%E9%A9%B1%E5%8A%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-d7df9390b22https://medium.com/dxchain%E4%B8%AD%E6%96%87%E5%8D%9A%E5%AE%A2/dxchain-%E7%94%A8%E5%8C%BA%E5%9D%97%E9%93%BE%E9%A9%B1%E5%8A%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-d7df9390b2200
